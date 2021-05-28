@@ -4,4 +4,5 @@ https://www.reddit.com/r/LabVIEW/comments/n4cik3/labview_reddit_challenge_may_20
 
 # other info
 LabVIEW 2014. Should be able to use the base dev package.
-Sample audio provided in \audio directory!
+Sample audio provided in \audio directory.
+Audio provided by https://www.bensound.com/royalty-free-music/track/dubstep
